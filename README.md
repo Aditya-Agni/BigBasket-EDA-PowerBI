@@ -34,6 +34,17 @@ The following steps were performed in **Power Query**:
 - Created summary tables using Group By for category and brand analysis
 
 ---
+## 📊 Dashboard Preview
+
+### Executive Overview
+Executive Overview
+<img width="1280" height="719" alt="overview_page png" src="https://github.com/user-attachments/assets/98a65b55-57de-4c04-a2e2-97c43c53d734" />
+
+
+### Category & Discount Analysis
+Category & Discount Analysis
+<img width="1279" height="722" alt="category_discount_analysis png" src="https://github.com/user-attachments/assets/f1866d17-d8aa-416f-91d8-8b401dbc5367" />
+
 
 ## 📊 Exploratory Data Analysis
 The EDA was structured across **two Power BI report pages**:
