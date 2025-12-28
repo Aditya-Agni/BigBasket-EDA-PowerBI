@@ -52,16 +52,20 @@ The following steps were performed in **Power Query**:
 
 ---
 
-## Python Exploratory Data Analysis
+## 🐍 Python Exploratory Data Analysis
 
-This project includes a complete Python-based exploratory data analysis notebook (`python/bigbasket_eda_python.ipynb`) that explores:
-- Price distribution
-- Rating distribution
+In addition to Power Query and Power BI, this project includes a complete Python-based exploratory data analysis to demonstrate analytical workflows using code.
+
+The Python notebook covers:
+- Price and rating distributions
 - Category and brand dominance
-- Discount behavior
-- Relationships between price, discount, and rating
+- Discount behavior and discount prevalence
+- Relationships between price, discount percentage, and customer ratings
+- Category-wise price spread and outlier analysis
 
-This demonstrates analytical skills using Python, highlighting patterns not easily shown in dashboards.
+📄 **Python Notebook:**  
+[bigbasket_eda_python.ipynb](python/bigbasket_eda_python.ipynb)
+
 
 ---
 
