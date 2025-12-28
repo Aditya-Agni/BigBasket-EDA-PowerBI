@@ -1,13 +1,21 @@
 # BigBasket Product Data – Exploratory Data Analysis (EDA)
 
+## Table of Contents
+- [Objective](#objective)
+- [Project Overview](#project-overview)
+- [Python Exploratory Data Analysis](#python-exploratory-data-analysis)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Insights](#key-insights)
+- [Limitations](#limitations)
+- [Tools Used](#tools-used)
+
 ## 🎯 Objective
 The objective of this project is to explore BigBasket’s product catalog to understand how products are distributed across categories, how pricing and discounts vary, and which brands dominate the platform. The analysis aims to simulate a real-world exploratory workflow that supports business decision-making.
 
 ---
 
 ## 📌 Project Overview
-This project performs an **Exploratory Data Analysis (EDA)** on BigBasket product data to understand product distribution, pricing patterns, brand dominance, and discount behavior.  
-The analysis focuses on **data cleaning, transformation, and insight generation** using **Power Query** and **Power BI**.
+Exploratory Data Analysis of BigBasket product data using Power Query, Power BI, and Python to analyze product distribution, pricing, brand dominance, and discount patterns through dashboards and scripts.
 
 ---
 
@@ -43,6 +51,26 @@ The following steps were performed in **Power Query**:
 - Created summary tables using Group By for category and brand analysis
 
 ---
+
+## Python Exploratory Data Analysis
+
+This project includes a complete Python-based exploratory data analysis notebook (`python/bigbasket_eda_python.ipynb`) that explores:
+- Price distribution
+- Rating distribution
+- Category and brand dominance
+- Discount behavior
+- Relationships between price, discount, and rating
+
+This demonstrates analytical skills using Python, highlighting patterns not easily shown in dashboards.
+
+---
+
+### Python Notebook
+Explore the detailed Python EDA notebook here:
+📄 [bigbasket_eda_python.ipynb](python/bigbasket_eda_python.ipynb)
+
+---
+
 ## 📊 Dashboard Preview
 
 ### Executive Overview
